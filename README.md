@@ -1,21 +1,51 @@
-Hello there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Darren Broomhall
-========================================================================================================================================
-
-Junior Full-Stack Developer
----------------------------
+<h1 align="center">Hello there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> I'm Darren</h1>
 
 <h2 align="center">About Me</h2> 
-I worked as a Virtual Receptionist where I performed an unintended QA role finding temporary workarounds for our booking software. I've joined School of Code to see how I might be able to fix these problems instead. 
+<div>
+  Junior Full-Stack Developer and recent graduate from School of Code (BC14)!
+<br><br>
+Previously working as a Virtual Receptionist at an Entertainment Company (Escape Rooms / Arcade Pub) I had the opportunity of performing a QA role not part of my formal duties. With every update cycle, there was always something new broken! Products unavailable, rescheduling bookings displaying incorrect metadata on both professional and user ends, products not exchanging correctly, calendar blocks out the wazoo! And perhaps my "favorite" - payment links cancelling bookings. All this and more! 
+<br><br>
+After finding my first workaround solution using my trusted companion Salesforce, I actively enjoyed finding new problems, documenting them, experimenting to find a solution, have my eureka moment and then distribute my solution to my team followed by an extensive bug report with detailed addendums to support what I'd found. Fast forward about 6-8 months, a morning before a shift lying in bed asking myself what I'm doing - I knew I wanted more of the problem solving and less of the customer service role. I enrolled on the competitive School of Code Bootcamp and got through thousands of applications - to which here I am now on the otherside to see how I might be able to fix these problems instead! 
+</div>
 
+Some Tidbits! 
+* 🔭 I'm currently working on my Portfolio Page using React
+* 👯 I'm looking to build a media collection app shortly - If you're interested, reach out! 
+* 💬 I'm big into video games, movies & anime! Feel free to strike a conversation with me!
+* ✉️  You can contact me via [email📬](mailto:d.p.broomhall@gmail.com) or my socials below!
+* ⚡ Fun Fact 1: I was Mr Fish, more commonly known as the Pirate King whilst I was a Games Master!
 
-* 🌍  I'm based in Wolverhampton
-* ✉️  You can contact me at [d.p.broomhall@gmail.com](mailto:d.p.broomhall@gmail.com)
-
-  <button href="">My Porfolio (TBC)</button>
-  <a href="https://www.linkedin.com/in/d-p-broomhall-ffx4shb19ffx4shb19/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+ <div align="center"> 
+   <a href="https://www.linkedin.com/in/d-p-broomhall-ffx4shb19ffx4shb19/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp; &nbsp;
+   <a href="https://www.twitter.com/DarrenBroomhall" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+   </div>
 
 <h2 align="center">Projects</h2>  
-
+<table align="center"> 
+<tr>
+  <th>Project</th>
+  <th></th>
+  <th></th>
+  <th>Description</th>
+</tr>
+  <td>CodeCard</td>
+  <td><a href="https://github.com/Darren-p-b/Week-6-project">Github</a></td>
+  <td>Demo TBC</td>
+  <td> SoC 1 week project ~ A flashcard app for memory retention</td>
+<tr>
+  <td>Memory Companion</td>
+  <td><a href="https://github.com/Darren-p-b/ByteSquad-frontend-MemoryCompanion">Github</a></td>
+  <td><a href="https://byte-squad-frontend-memory-companion.vercel.app/">Demo</a></td>
+  <td> SoC 5 week project ~ An application designed to support individuals suffering from dementia and other memory-related conditions. Seek further information on the Readme.md. Trailer available <a href="https://youtu.be/2Wan7igjPdk">here</a> </td>
+</tr>
+<tr>
+  <td>XVI-Countdown (Not complete)</td>
+  <td><a href="https://github.com/Darren-p-b/XVI-countdown">Github</a></td>
+  <td>Demo TBC</td>
+  <td>A simple countdown clock</td>
+</tr>
+</table>
 
 <h2 align="center">Skills<h2>
   
@@ -47,6 +77,5 @@ I worked as a Virtual Receptionist where I performed an unintended QA role findi
   
 </table>
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/Darren-p-b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/d-p-broomhall-ffx4shb19ffx4shb19/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/DarrenBroomhall" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
