@@ -13,13 +13,8 @@ Some Tidbits!
 * 🔭 I'm currently working on my Portfolio Page using React
 * 👯 I'm looking to build a media collection app shortly - If you're interested, reach out! 
 * 💬 I'm big into video games, movies & anime! Feel free to strike a conversation with me!
-* ✉️  You can contact me via [email📬](mailto:d.p.broomhall@gmail.com) or my socials below!
+* ✉️  You can contact me via [email📬](mailto:d.p.broomhall@gmail.com) or on <a href="https://www.linkedin.com/in/d-p-broomhall/">LinkedIn</a>!
 * ⚡ Fun Fact 1: I was Mr Fish, more commonly known as the Pirate King whilst I was a Games Master!
-
- <div align="center"> 
-   <a href="https://www.linkedin.com/in/d-p-broomhall-ffx4shb19ffx4shb19/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp; &nbsp;
-   <a href="https://www.twitter.com/DarrenBroomhall" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-   </div>
 
 <h2 align="center">Projects</h2>  
 <table align="center"> 
